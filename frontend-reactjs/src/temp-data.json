@@ -1,0 +1,54 @@
+{
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp",
+    "description": "Since its founding in 1993, NVIDIA has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the industrial metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.",
+    "startDate": "1999-01-22",
+    "endDate": "2023-07-18",
+    "exchangeCode": "NASDAQ"
+}
+
+
+
+[
+    {
+        "ticker": "NVDA",
+        "timestamp": "2023-07-19T15:28:11.561384749-04:00",
+        "lastSaleTimestamp": "2023-07-19T15:28:07.072044594-04:00",
+        "quoteTimestamp": "2023-07-19T15:28:11.561384749-04:00",
+        "open": 475.33,
+        "high": 478.15,
+        "low": 467.475,
+        "mid": 470.22,
+        "tngoLast": 469.7,
+        "last": 469.7,
+        "lastSize": 64,
+        "bidSize": 133,
+        "bidPrice": 469.66,
+        "askPrice": 470.78,
+        "askSize": 100,
+        "prevClose": 474.94,
+        "volume": 553620
+    }
+]
+
+[
+    {
+        "ticker": "NVDA",
+        "timestamp": "2023-07-19T20:00:00+00:00",
+        "lastSaleTimestamp": "2023-07-19T20:00:00+00:00",
+        "quoteTimestamp": "2023-07-19T20:00:00+00:00",
+        "open": 474.64,
+        "high": 478.18,
+        "low": 467.42,
+        "mid": null,
+        "tngoLast": 470.77,
+        "last": 470.77,
+        "lastSize": null,
+        "bidSize": null,
+        "bidPrice": null,
+        "askPrice": null,
+        "askSize": null,
+        "volume": 42069500,
+        "prevClose": 474.94
+    }
+]

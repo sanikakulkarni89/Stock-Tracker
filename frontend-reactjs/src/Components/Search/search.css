@@ -1,0 +1,16 @@
+.inputBox{
+    border: solid #457B9D;
+    border-radius: 10px;
+}
+
+.suggestion{
+    cursor: pointer;
+    border-right: 1px solid #457B9D;
+    border-left: 1px solid #457B9D;
+    border-bottom: 1px solid #457B9D;
+}
+
+
+.suggestion:hover{
+    background-color: #F1FAEE;
+}
